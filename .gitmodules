@@ -5,3 +5,6 @@
 [submodule "letsHerp"]
 	path = letsHerp
 	url = https://github.com/joao-svalencar/letsherp
+[submodule "letsRept"]
+	path = letsRept
+	url = https://github.com/joao-svalencar/letsrept
